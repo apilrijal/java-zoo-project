@@ -1,4 +1,6 @@
-<img width="1170" height="780" alt="image" src="https://github.com/user-attachments/assets/5eff2417-6c21-4b94-ace5-de3684b0bf27" /># 🦁 Zoo Management System (Java Console Application)
+<img width="1170" height="780" alt="image" src="https://github.com/user-attachments/assets/5eff2417-6c21-4b94-ace5-de3684b0bf27" />
+
+# 🦁 Zoo Management System (Java Console Application)
 ## 📌 Overview
 
 The Zoo Management System is a Java-based, menu-driven console application designed to simulate the management of animals in a zoo.
