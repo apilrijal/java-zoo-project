@@ -33,14 +33,11 @@ weight
 
 Concrete animal classes:
 
-Tiger
-https://images.unsplash.com/photo-1601354483930-3d7a3ccc8edc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+#### Tiger
 
-Dolphin
-https://images.unsplash.com/photo-1656575742186-e93cac035910?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+#### Dolphin
 
-Penguin
-https://plus.unsplash.com/premium_photo-1661855291083-d0a52c38db0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHpvbyUyMHBlbmd1aW58ZW58MHx8MHx8fDA%3D
+#### Penguin
 
 ### 🧠 Object-Oriented Design
 
